@@ -1,0 +1,23 @@
+1. Recherche Linéaire
+La recherche linéaire est un algorithme de recherche simple qui parcourt une liste ou un tableau élément par élément jusqu'à ce qu'il trouve l'élément recherché ou atteigne la fin de la liste.
+
+Utilité :
+Cet algorithme est utile lorsque :
+    - La liste est petite et non triée.
+    - Il est nécessaire de trouver un élément spécifique dans un ensemble de données.
+    - La simplicité d'implémentation est plus importante que la performance optimale (comme dans des scripts ou des tâches uniques).
+
+Pourquoi en a-t-on besoin ?
+On utilise la recherche linéaire lorsque la simplicité et la facilité de compréhension sont des priorités. Bien qu'elle ne soit pas très efficace pour les grandes listes (temps de complexité O(n)), elle fonctionne bien pour des listes petites ou lorsqu'il n'y a pas de structure spécifique dans les données.
+
+2. Tri à Bulles
+Le tri à bulles est un algorithme de tri simple qui fonctionne en répétant le processus consistant à parcourir la liste et à échanger les éléments adjacents s'ils sont dans le mauvais ordre. Ce processus est répété jusqu'à ce que la liste soit triée.
+
+Utilité :
+Cet algorithme est principalement utilisé :
+    - Pour l'apprentissage et l'enseignement des concepts de base de tri.
+    - Pour trier de petites listes où l'efficacité n'est pas critique.
+    - Dans les cas où la simplicité du code est souhaitée plus que la performance (puisque le tri à bulles est simple à comprendre et à coder).
+
+Pourquoi en a-t-on besoin ?
+Le tri à bulles est utilisé pour sa simplicité et sa facilité d'implémentation, surtout à des fins éducatives. Cependant, il est généralement inefficace pour trier de grandes listes (temps de complexité O(n²)). On l'utilise souvent pour illustrer les principes fondamentaux des algorithmes de tri ou dans des situations où la performance n'est pas un facteur crucial.
